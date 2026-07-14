@@ -16,12 +16,13 @@ using namespace std;
 // }
 
 
-int[] arr = {5, 3, 1, 4, 2};
+int arr[] = {5, 3, 1, 4, 2};
 
-void boolean sorted = false{
-while (!sorted) {
-    sorted = true;
-    for (int i = 0; i < arr.length - 1; i++) {
+void bubbleSort() {
+    bool sorted = false;
+    while (!sorted) {
+        sorted = true;
+        for (int i = 0; i < sizeof(arr) / sizeof(arr[0]) - 1; i++) {
         if (arr[i] > arr[i+1]) {          // ascending ke liye >
             // swap
             int temp = arr[i];
