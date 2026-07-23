@@ -1,6 +1,3 @@
-# Data Structures and Algorithms in C++
-
-This repository contains implementation of basic Data Structures and Algorithms in C++.
 
 ## Topics Covered
 
@@ -35,3 +32,4 @@ This repository contains implementation of basic Data Structures and Algorithms 
 - Quadratic Probing
 
 Language Used: **C++**
+

@@ -1,3 +1,6 @@
+//your required to implement undirected graph using adjacency matrix, now perform the following operations on graph:also take  complete adjacency Matrix as input and validate if adjecency matrix is valid or not .
+//find if the Graph is connected or not, Findif graph is completely connected or not; if Graph is connected ;just comment whether it is cyclic or not;
+
 #include <iostream>
 using namespace std;
 
